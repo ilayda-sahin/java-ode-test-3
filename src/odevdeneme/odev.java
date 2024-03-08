@@ -12,6 +12,8 @@ public class odev {
 		 * @return İki sayının toplamı.
 		 */
 		
+		
+		
 		/**
 		 * Bu metot, verilen iki sayının toplamını hesaplar.
 		 * 
